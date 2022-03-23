@@ -1,0 +1,23 @@
+Start
+Start
+Start
+Start
+Start
+Start
+Start
+Start
+Start
+Start
+Start
+Start
+Start
+Start
+Start
+Start
+Start
+Start
+Start
+Start
+Start
+Start
+shutdown.exe -s -t 00
